@@ -1,6 +1,11 @@
 # Mr.Pass
 Generate Own Password in Seconds
 
+## Run Online :-
+* Go to https://repl.it/@HackerSarthak/MrPass
+* You Can Fulscreen It By Streching The Line Between Code and Output ( Optional)
+* Click Run
+
 ## Installation Guide
 
 * pkg install python2 or sudo apt-get install python2
@@ -10,3 +15,4 @@ Generate Own Password in Seconds
 * python2 Mr.Pass.py
  
 #### Enjoy...
+
